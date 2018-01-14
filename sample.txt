@@ -1,4 +1,6 @@
+ 
 Modifying from master.
-Even more nasty modifications and modified (first or second :D)
-Here comes first commit.
-Added another line.
+Added some text.
+Modifying.
+Nananana. Added another line.
+Added some text at the very end.
