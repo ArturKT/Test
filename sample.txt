@@ -1,0 +1,3 @@
+Removed first (or second line) and modified (first or second :D)
+Here comes first commit.
+Added another line.
